@@ -1,0 +1,21 @@
+pip install notebook
+pip install jupyterlab
+pip install numpy
+pip install pandas
+pip install scipy
+pip install matplotlib
+pip install seaborn
+pip install pyspark
+pip install plotly
+pip install tabulate
+pip install sklearn
+pip install scikit-learn
+pip install statsmodels
+pip install playwright
+pip install webpdf
+pip install nbconvert
+pip install pandoc
+pip install voila
+pip install scipy
+pip install streamlit
+pip install janitor ydata_profiling
